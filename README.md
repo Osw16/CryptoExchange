@@ -2,7 +2,7 @@
 
 ## Visit site 
 ```
-https://stupefied-newton-cad7bd.netlify.app/
+https://fanance.netlify.app/
 ```
 
 ## Description
