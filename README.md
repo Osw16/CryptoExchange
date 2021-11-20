@@ -1,7 +1,7 @@
 # Crypto-exchange
 
 ## Visit site 
-My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
+deployed [click here](https://duckduckgo.com).
 ## Description
 ```
 App builded following Atomic desing to show market caps in real time and consume official Coin Cap API made un Vuej.js (Javascript) and stylized Using Tailwind CSS.
