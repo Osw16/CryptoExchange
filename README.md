@@ -1,12 +1,8 @@
 # Crypto-exchange
 
 ## Visit site 
-My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
-```
-My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
 https://fanance.netlify.app/(https://fanance.netlify.app/).
 
-```
 
 ## Description
 ```
