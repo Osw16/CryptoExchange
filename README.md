@@ -2,7 +2,8 @@
 
 ## Visit site 
 ```
-https://fanance.netlify.app/
+https://fanance.netlify.app/(https://fanance.netlify.app/).
+
 ```
 
 ## Description
